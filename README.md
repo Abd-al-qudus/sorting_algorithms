@@ -1,1 +1,1 @@
-*SORTING ALGORITHM
+#*Sorting algorithms written in C
